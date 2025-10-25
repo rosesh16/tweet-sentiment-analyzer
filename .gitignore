@@ -55,3 +55,7 @@ Thumbs.db
 
 # Environment variables
 .env
+
+# Datasets (users should download their own)
+twitter_sentiment.csv
+*.csv
